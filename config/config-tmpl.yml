@@ -1,0 +1,15 @@
+# config.yml
+
+gitlab_client_endpoint: 'https://your.gitlab.server.addr/api/v4'
+gitlab_client_privatetoken: 'YOUR-PRIVATE-GITLAB-TOKEN'
+gitlab_project: 'your-name/your-project-name'
+gitlab_assigneeid: 0
+gitlab_milestoneid: 0
+gitlab_labels: 'osticket'
+
+mysql_client_host: 'your.mysql.server.addr'
+mysql_client_port: '3306'
+mysql_client_username: 'osticket'
+mysql_client_password: 'OSTICKET-USER-PASSWORD'
+mysql_client_database: 'osticket'
+
